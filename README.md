@@ -1,3 +1,5 @@
+# Follow this video https://www.youtube.com/watch?v=la-0ulfn0_M
+
 # Quasar App (qwitter)
 
 A Quasar Project
